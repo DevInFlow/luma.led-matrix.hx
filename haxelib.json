@@ -1,0 +1,16 @@
+{
+    "releasenote": "Initial Release",
+    "license": "Apache",
+    "tags": [
+        "python",
+        "luma"
+    ],
+    "url": "",
+    "version": "0.0.1",
+    "name": "hxluma",
+    "classPath":"src",
+    "description": "Haxe externs and utilities for working with luma",
+    "contributors": [
+        "varadig"
+    ]
+}
