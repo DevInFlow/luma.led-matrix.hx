@@ -7,7 +7,7 @@
     ],
     "url": "",
     "version": "0.0.1",
-    "name": "hxluma",
+    "name": "luma.led-matrix.hx",
     "classPath":"src",
     "description": "Haxe externs and utilities for working with luma",
     "contributors": [
